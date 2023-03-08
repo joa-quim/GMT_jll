@@ -6,4 +6,4 @@ os = "linux"
 
     [[GMT.download]]
     sha256 = "5d145733f534df7fdafac0ca1bbda13554cbf3b5f23ff131843ba69882cf039f"
-    url = "https://github.com/local/releases/download/GMT-v6.4.0+0/GMT.v6.4.0.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/joa-quim/GMT_jll/releases/download/taga/GMT.v6.4.0.x86_64-w64-mingw32.tar.gz"
