@@ -1,0 +1,28 @@
+name = "GMT_jll"
+uuid = "b68b8c3f-ed99-5bef-9675-4739d9426b26"
+version = "6.4.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+GDAL_jll = "a7073274-a066-55f0-b90d-d619367d196c"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Ghostscript_jll = "61579ee1-b43e-5ca0-a5da-69d92c66a64b"
+OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
+FFTW_jll = "f5851436-0d7a-5f13-b9de-f02708fd171a"
+FFMPEG_jll = "b22a6f82-2f65-5046-a5b2-351ab43fb4e5"
+PCRE_jll = "2f80f16e-611a-54ab-bc61-aa92de5b98fc"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+LAPACK32_jll = "17f450c3-bd24-55df-bb84-8c51b4b939e3"
+Glib_jll = "7746bdde-850d-59dc-9ae8-88ece973131d"
+NetCDF_jll = "7243133f-43d8-5620-bbf4-c2c921802cf3"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+LibCURL_jll = "deac9b47-8bc7-5906-a0fe-35ac56dc84c0"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+LLVMOpenMP_jll = "1d63c593-3942-5779-bab2-d838dc0a180e"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+LibCURL_jll = "7.73.0"
+GDAL_jll = "301.600.200"
+NetCDF_jll = "400.902.5"

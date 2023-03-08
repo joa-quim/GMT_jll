@@ -1,0 +1,9 @@
+[[GMT]]
+arch = "x86_64"
+git-tree-sha1 = "78172096e39edbb7f6d956ae4f58bb83bb4a27da"
+libc = "glibc"
+os = "linux"
+
+    [[GMT.download]]
+    sha256 = "5d145733f534df7fdafac0ca1bbda13554cbf3b5f23ff131843ba69882cf039f"
+    url = "https://github.com/local/releases/download/GMT-v6.4.0+0/GMT.v6.4.0.x86_64-linux-gnu.tar.gz"
